@@ -1,0 +1,8 @@
+- [x] Update pyproject.toml: remove asyncpg, add pymongo, replace pymysql with mariadb-connector-python
+- [x] Modify server_mcp.py imports
+- [x] Update AppContext for mongo_client and mariadb_conn
+- [x] Update lifespan to connect to MongoDB and MariaDB
+- [x] Adjust Producto model for MongoDB (id as str)
+- [x] Update product tools to use MongoDB
+- [x] Update sales tools to use MariaDB
+- [x] Test the server (dependencies installed, ready to run)

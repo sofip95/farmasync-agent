@@ -1,0 +1,20 @@
+[project]
+name = "agentecongemini"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "asgiref>=3.9.1",
+    "asyncio>=3.4.3",
+    "flask>=3.1.2",
+    "flask-cors>=4.0.0",
+    "mariadb>=1.1.10",
+    "mcp>=1.0.0",
+    "mirascope[google]>=1.0.0",
+    "pydantic>=2.0.0",
+    "pymongo>=4.6.0",
+    "python-dotenv>=1.1.1",
+    "starlette>=0.47.2",
+    "uvicorn>=0.35.0",
+]
