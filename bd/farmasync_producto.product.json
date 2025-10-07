@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "68e432465c71af4f0c6c000a"
+  },
+  "id": "1",
+  "nombre": "Paracetamol",
+  "descripcion": "Tabletas analgésicas y antipiréticas de 500mg.",
+  "precio": 1200,
+  "stock": 200,
+  "proveedorId": "PROV001"
+},
+{
+  "_id": {
+    "$oid": "68e432465c71af4f0c6c000b"
+  },
+  "id": "2",
+  "nombre": "Ibuprofeno",
+  "descripcion": "Antiinflamatorio no esteroideo para el alivio del dolor y fiebre.",
+  "precio": 1500,
+  "stock": 180,
+  "proveedorId": "PROV002"
+},
+{
+  "_id": {
+    "$oid": "68e432465c71af4f0c6c000c"
+  },
+  "id": "3",
+  "nombre": "Amoxicilina",
+  "descripcion": "Antibiótico de amplio espectro en cápsulas.",
+  "precio": 3500,
+  "stock": 120,
+  "proveedorId": "PROV003"
+},
+{
+  "_id": {
+    "$oid": "68e432465c71af4f0c6c000d"
+  },
+  "id": "4",
+  "nombre": "Jarabe para la tos Broncolin",
+  "descripcion": "Jarabe expectorante natural con miel y eucalipto.",
+  "precio": 8200,
+  "stock": 75,
+  "proveedorId": "PROV004"
+},
+{
+  "_id": {
+    "$oid": "68e432465c71af4f0c6c000e"
+  },
+  "id": "5",
+  "nombre": "Vitamina C",
+  "descripcion": "Tabletas efervescentes con sabor a naranja, fortalecen el sistema inmunológico.",
+  "precio": 2500,
+  "stock": 160,
+  "proveedorId": "PROV005"
+},
+{
+  "_id": {
+    "$oid": "68e432465c71af4f0c6c000f"
+  },
+  "id": "6",
+  "nombre": "Alcohol antiséptico",
+  "descripcion": "Solución desinfectante de 500ml.",
+  "precio": 4800,
+  "stock": 100,
+  "proveedorId": "PROV006"
+},
+{
+  "_id": {
+    "$oid": "68e432465c71af4f0c6c0010"
+  },
+  "id": "7",
+  "nombre": "Crema antibiótica Neosporin",
+  "descripcion": "Pomada para heridas y quemaduras menores.",
+  "precio": 11500,
+  "stock": 60,
+  "proveedorId": "PROV007"
+},
+{
+  "_id": {
+    "$oid": "68e432465c71af4f0c6c0011"
+  },
+  "id": "8",
+  "nombre": "Termómetro digital",
+  "descripcion": "Medidor de temperatura corporal con pantalla LCD.",
+  "precio": 18000,
+  "stock": 45,
+  "proveedorId": "PROV008"
+},
+{
+  "_id": {
+    "$oid": "68e432465c71af4f0c6c0012"
+  },
+  "id": "9",
+  "nombre": "Mascarillas quirúrgicas (caja x50)",
+  "descripcion": "Tapabocas desechables de 3 capas con elástico suave.",
+  "precio": 25000,
+  "stock": 90,
+  "proveedorId": "PROV009"
+},
+{
+  "_id": {
+    "$oid": "68e432465c71af4f0c6c0013"
+  },
+  "id": "10",
+  "nombre": "Guantes de látex (caja x100)",
+  "descripcion": "Guantes desechables para uso médico y de limpieza.",
+  "precio": 32000,
+  "stock": 70,
+  "proveedorId": "PROV010"
+}]
